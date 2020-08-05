@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+ - ⚒ DevOps Consultant
+ - 🚀 Azure DevOps / GitHub
+ - 😎 Automation is fun
+
+# Blogging at
+<https://johnlokerse.wordpress.com>
+
 <!--
 **johnlokerse/johnlokerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
