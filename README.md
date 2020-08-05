@@ -1,7 +1,7 @@
 ### Hi there I'm John 👋
 
  - ⚒ DevOps Consultant
- - 🚀 Azure DevOps / GitHub
+ - 🚀 Working with Azure DevOps / GitHub
  - 😎 Automation is fun
 
 ### Sometimes I blog at
