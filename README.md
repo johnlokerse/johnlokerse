@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm John 👋
 
  - ⚒ DevOps Consultant
  - 🚀 Azure DevOps / GitHub
