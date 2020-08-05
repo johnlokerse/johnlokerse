@@ -4,7 +4,7 @@
  - 🚀 Azure DevOps / GitHub
  - 😎 Automation is fun
 
-### Blogging at
+### Sometimes I blog at
 <https://johnlokerse.wordpress.com>
 
 <!--
