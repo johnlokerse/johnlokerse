@@ -1,3 +1,5 @@
+[![Linkedin Badge](https://img.shields.io/badge/-johnlokerse-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnlokerse/)](https://www.linkedin.com/in/johnlokerse/)
+
 ### Hi there I'm John 👋
 
  - ⚒ DevOps Consultant
