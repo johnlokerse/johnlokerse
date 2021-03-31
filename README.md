@@ -2,7 +2,7 @@
 
 ### Hi there I'm John 👋
 
- - ⚒ DevOps Consultant
+ - ⚒ DevOps Consultant at Delta-N
  - 🚀 Working with Azure DevOps / GitHub
  - 😎 Automation is fun
 
