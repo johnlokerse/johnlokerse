@@ -2,7 +2,7 @@
 
 ### Hi there I'm John 👋
 
- - ⚒ DevOps Consultant at Delta-N
+ - ⚒ DevOps Consultant at [Rubicon Cloud Advisors](https://rubicon.nl/)
  - 🚀 Working with Azure DevOps / GitHub
  - 😎 Automation is fun
 
