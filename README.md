@@ -7,7 +7,7 @@
  - 😎 Automation is fun
 
 ### Sometimes I blog at
-<https://johnlokerse.wordpress.com>
+<https://johnlokerse.dev/>
 
 <!--
 **johnlokerse/johnlokerse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
