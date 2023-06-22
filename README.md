@@ -6,7 +6,7 @@
  - 🚀 Working with Azure DevOps / GitHub
  - 😎 Automation is fun
 
-### Blogging at <https://johnlokerse.dev/>
+### Blogging at <https://www.johnlokerse.dev/>
 
 
 <!--
