@@ -13,3 +13,4 @@ Follow me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-johnloke
 ---
 
 ![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnlokerse&show_icons=true&theme=onedark)
+![John's Commit stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=johnlokerse&theme=github_dark)
