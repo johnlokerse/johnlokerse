@@ -6,7 +6,7 @@
  - 🚀 Working with Azure DevOps / GitHub
  - 😎 Automation is fun
 
-### Blogging at <https://www.johnlokerse.dev/>
+### Blogging at [https://www.johnlokerse.dev/](https://www.johnlokerse.dev/)
 
 Follow me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-johnlokerse-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnlokerse/)](https://www.linkedin.com/in/johnlokerse/)
 
