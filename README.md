@@ -1,6 +1,6 @@
 ### Hi there I'm John Lokerse 👋
 
- - ⚒ DevOps Consultant at [Rubicon Cloud Advisor](https://rubicon.nl/)
+ - ⚒ DevOps Consultant at [InSpark 🚀](https://www.inspark.nl/)
  - Microsoft MVP on DevOps and Microsoft Infrastructure-as-Code
  - 🚀 Working with Azure DevOps, GitHub and Infrastructure-as-Code
  - Azure Bicep enthusiast!
