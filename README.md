@@ -1,6 +1,6 @@
 ### Hi there I'm John Lokerse 👋
 
- - ⚒ DevOps Consultant at [InSpark 🚀](https://www.inspark.nl/)
+ - ⚒ DevOps Consultant
  - Microsoft MVP on DevOps and Microsoft Infrastructure-as-Code
  - 🚀 Working with Azure DevOps, GitHub and Infrastructure-as-Code
  - Azure Bicep enthusiast!
