@@ -7,11 +7,11 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate Changelog Videos with GitHub Copilot Hooks and Microsoft Foundry Voice Models](https://johnlokerse.dev/2026/05/18/generate-changelog-videos-with-github-copilot-hooks-and-microsoft-foundry-voice-models/)
 - [Use OpenCode Go models in GitHub Copilot CLI with BYOK](https://johnlokerse.dev/2026/04/23/use-opencode-go-models-in-github-copilot-cli-with-byok/)
 - [Testing Azure Bicep User-Defined Functions using Bicep Console and Pester](https://johnlokerse.dev/2026/04/07/testing-azure-bicep-user-defined-functions-using-bicep-console-and-pester/)
 - [Agent Skills for Azure Bicep with GitHub Copilot: From Manual Work to Automated Workflows](https://johnlokerse.dev/2026/02/02/agent-skills-for-azure-bicep-with-github-copilot-from-manual-work-to-automated-workflows/)
 - [Automated Code Reviews in Azure DevOps using OpenAI models powered by Microsoft Foundry](https://johnlokerse.dev/2026/01/06/automated-code-reviews-in-azure-devops-using-openai-models-powered-by-microsoft-foundry/)
-- [Experiment, Prototype, and Validate Azure Bicep with the Bicep Console](https://johnlokerse.dev/2025/12/01/experiment-prototype-and-validate-azure-bicep-with-the-bicep-console/)
 <!-- BLOG-POST-LIST:END -->
 
 ### LinkedIn
